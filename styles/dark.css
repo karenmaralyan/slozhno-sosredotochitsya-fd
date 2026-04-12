@@ -12,7 +12,7 @@
 
   --button-text-color: #ff77ff;
   --button-border-color: #ff77ff;
-  --button-hover-border-color: rgba(255, 119, 255, 0.5);
+  --button-hover-border-color: rgb(255 119 255 / 0.4);
 
   --title-decor-bg: var(--accent-color);
   --title-decor-color: #000028;

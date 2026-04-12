@@ -12,7 +12,7 @@
 
   --button-text-color: #353535;
   --button-border-color: #353535;
-  --button-hover-border-color: rgba(53, 53, 53, 0.5);
+  --button-hover-border-color: rgb(50 49 45 / 0.4);
 
   --title-decor-bg: var(--accent-color);
   --title-decor-color: #353535;
@@ -36,7 +36,7 @@
 
     --button-text-color: #353535;
     --button-border-color: #353535;
-    --button-hover-border-color: rgba(53, 53, 53, 0.5);
+    --button-hover-border-color: rgb(50 49 45 / 0.4);
 
     --title-decor-bg: var(--accent-color);
     --title-decor-color: #353535;
