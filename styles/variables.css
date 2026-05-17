@@ -1,17 +1,18 @@
+
 :root {
   --background-color: #000028;
   --background-image: url('../images/cover-image-dark.png');
 
   --accent-color: #ff0070;
   --title-color: #db00ff;
-  --text-color: #ff77ff;
+  --text-color: #F1B2CE;
 
   --link-color: #ff77ff;
   --link-shadow: 2px 2px 0 var(--accent-color);
 
-  --button-text-color: #ff77ff;
-  --button-border-color: #ff77ff;
-  --button-hover-border-color: rgb(255 119 255 / 0.4);
+  --button-text-color: #ff0070;
+  --button-border-color: #ff0070;
+  --button-hover-border-color: rgb(255, 0, 112, 0.6);
 
   --title-decor-bg: var(--accent-color);
   --title-decor-color: #000028;

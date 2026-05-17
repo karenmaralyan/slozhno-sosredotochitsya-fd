@@ -1,9 +1,10 @@
+
+
 :root.theme-light {
   --background-color: #f5efff;
   --background-image: url('../images/cover-image-light.png');
-
   --accent-color: #ff8dcb;
-  --title-color: #ff0070;
+  --title-color: #FFC2E6;
   --text-color: #353535;
 
   --link-color: #353535;
@@ -16,10 +17,12 @@
   --title-decor-bg: var(--accent-color);
   --title-decor-color: #353535;
 
-  --section-title-color: #ff0070;
+  --section-title-color: #353535;
   --card-title-color: #353535;
   --card-title-normal-weight-color: #353535;
 }
+
+
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -35,12 +38,12 @@
 
     --button-text-color: #353535;
     --button-border-color: #353535;
-    --button-hover-border-color: rgb(50 49 45 / 0.4);
+    --button-hover-border-color:  rgb(50 49 45 / 0.4) ;
 
     --title-decor-bg: var(--accent-color);
     --title-decor-color: #353535;
 
-    --section-title-color: #ff0070;
+    --section-title-color: #353535;
     --card-title-color: #353535;
     --card-title-normal-weight-color: #353535;
   }
